@@ -1,5 +1,7 @@
+# coding=utf-8
+
 import media
-import fresh_tomatoes
+import fresh_tomatoes #This is a class to create a website.
 
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
